@@ -1,6 +1,6 @@
 # Overview
 
-[![Python application test with Github Actions](https://github.com/arunans23/house-price-predict-webapp/actions/workflows/pythonapp.yml/badge.svg)](https://github.com/arunans23/house-price-predict-webapp/actions/workflows/pythonapp.yml) [![Build Status](https://dev.azure.com/arunans23/House-ML-Deploy/_apis/build/status/arunans23.house-prediction-serverless?branchName=main)](https://dev.azure.com/arunans23/House-ML-Deploy/_build/latest?definitionId=1&branchName=main)
+[![Python application test with Github Actions](https://github.com/arunans23/house-price-predict-webapp/actions/workflows/pythonapp.yml/badge.svg)](https://github.com/arunans23/house-price-predict-webapp/actions/workflows/pythonapp.yml) [![Build Status](https://dev.azure.com/arunans23/Predict-House-Price-Webapp/_apis/build/status/arunans23.house-price-predict-webapp?branchName=main)](https://dev.azure.com/arunans23/Predict-House-Price-Webapp/_build/latest?definitionId=2&branchName=main)
 
 <TODO: complete this with an overview of your project>
 
