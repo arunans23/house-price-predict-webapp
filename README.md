@@ -1,8 +1,12 @@
 # Overview
 
-[![Python application test with Github Actions](https://github.com/arunans23/house-price-predict-webapp/actions/workflows/pythonapp.yml/badge.svg)](https://github.com/arunans23/house-price-predict-webapp/actions/workflows/pythonapp.yml) [![Build Status](https://dev.azure.com/arunans23/Predict-House-Price-Webapp/_apis/build/status/arunans23.house-price-predict-webapp?branchName=main)](https://dev.azure.com/arunans23/Predict-House-Price-Webapp/_build/latest?definitionId=2&branchName=main)
+[![Python application test with Github Actions](https://github.com/arunans23/house-price-predict-webapp/actions/workflows/pythonapp.yml/badge.svg)](https://github.com/arunans23/house-price-predict-webapp/actions/workflows/pythonapp.yml) 
 
-<TODO: complete this with an overview of your project>
+This project aims to create a simple house price predicting service in Azure. To facilitate Agile Development, an end to end CI/CD (Continuous Integration and Continuous Development) deployment has been created with Azure Devops Pipelines.
+
+## Architectural Diagram (Shows how key parts of the system work)>
+
+![Architecture Diagram](./images/azure-cicd.png)
 
 ## Project Plan
 <TODO: Project Plan
@@ -11,9 +15,6 @@
 * A link to a spreadsheet that includes the original and final project plan>
 
 ## Instructions
-
-<TODO:  
-* Architectural Diagram (Shows how key parts of the system work)>
 
 <TODO:  Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
 
