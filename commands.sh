@@ -1,0 +1,1 @@
+az webapp up -n nauran-house-ml -g nauran-devops --location eastus --sku F1
