@@ -22,7 +22,7 @@ This project aims to create a simple house price predicting service in Azure. To
 
     * Clone the project `git@github.com:arunans23/house-price-predict-webapp.git`
 
-        ![Azure Cloud Shell git clone](../images/clone-project.png)
+        ![Azure Cloud Shell git clone](./images/clone-project.png)
 
 * Running project on Azure App Service
 
@@ -50,7 +50,7 @@ This project aims to create a simple house price predicting service in Azure. To
 
     * Run: `./make_predict_azure_app.sh`
 
-        ![Predict Command](../images/predict-command.png)
+        ![Predict Command](./images/predict-command.png)
 
 * Load testing using Locust
 
@@ -66,15 +66,15 @@ This project aims to create a simple house price predicting service in Azure. To
 
     * Open browser and go to [http://localhost:8089/](http://localhost:8089/)
 
-        ![Locust Statistics](../images/locust-stats.png)
+        ![Locust Statistics](./images/locust-stats.png)
 
-        ![Locust Graph](../images/locust-charts.png)
+        ![Locust Graph](./images/locust-charts.png)
 
 * Run Git actions
 
     * Git action workflow is found [here](https://github.com/arunans23/house-price-predict-webapp/blob/main/.github/workflows/pythonapp.yml).
 
-    ![GitHub Actions run](../images/github-actions-run.png)
+    ![GitHub Actions run](./images/github-actions-run.png)
 
 * Follow the official [documentation](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops) to setup the CI/CD pipeline in Azure.
 
