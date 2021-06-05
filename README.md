@@ -109,3 +109,15 @@ This project aims to create a simple house price predicting service in Azure. To
         `az webapp log tail --ids /subscriptions/cd100e65-a83e-459c-ad08-34bc29cc5182/resourceGroups/nauran-devops/providers/Microsoft.Web/sites/nauran-house-ml`
 
         ![Stream of logs](./images/stream-of-logs.png)
+
+## Enhancements
+
+* The webapp can containerized and published into [Docker Hub](https://hub.docker.com/)
+
+* The containerized webapp can be deployed in Azure Kubernetes Service (AKS) for high scalability and better usability
+
+* Azure pipelines can be completely replaced with Github Actions
+
+## Demo 
+
+* [CI/CD Demo in Azure](https://youtu.be/R0suGQ-PNBI)
