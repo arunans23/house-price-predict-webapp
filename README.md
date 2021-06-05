@@ -54,6 +54,8 @@ This project aims to create a simple house price predicting service in Azure. To
 
 * Load testing using Locust
 
+    * The locust test script is found [here](./locustfile.py).
+
     * Create a virtual environment like: `python3 -m venv .locust`
 
     * Activate the created virtual environment by: `source .locust/bin/activate` or `. .locust/bin/activate`
@@ -65,6 +67,8 @@ This project aims to create a simple house price predicting service in Azure. To
     * Run `locust`
 
     * Open browser and go to [http://localhost:8089/](http://localhost:8089/)
+
+        ![Locust Config](./images/locust-config.png)
 
         ![Locust Statistics](./images/locust-stats.png)
 
