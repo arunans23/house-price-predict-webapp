@@ -11,8 +11,8 @@ This project aims to create a simple house price predicting service in Azure. To
 ## Project Plan
 <TODO: Project Plan
 
-* A link to a Trello board for the project
-* A link to a spreadsheet that includes the original and final project plan>
+* Trello Board - https://trello.com/b/q6d0VH5i/house-price-predict-ml-project
+* Project Management plan - https://github.com/arunans23/house-price-predict-webapp/blob/main/ml-project-management-Q3-2021.xlsx
 
 ## Instructions
 
