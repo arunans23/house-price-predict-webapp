@@ -40,7 +40,7 @@ This project aims to create a simple house price predicting service in Azure. To
 
     * Run: `python3 -m venv ~/.myrepo` so that the virtual environment directory is located at `~/.myrepo`
 
-    * Activate the created virtual environment by: `source ~/.myrepo/bin/activate` or `. ~/.myrepo/bin/activate`
+    * Activate the created virtual environment by: `source ~/.myrepo/bin/activate`.
 
 * You can run the tests by running the command `make all` which will run all the steps in the `Makefile`.
 
